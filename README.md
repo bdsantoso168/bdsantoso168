@@ -16,7 +16,7 @@ I build at the intersection of analytics, AI systems, and consulting — where t
 
 ---
 
-![Banner](./banner.png)
+<img width="3501" height="947" alt="Gemini_Generated_Image_8uht3v8uht3v8uht" src="https://github.com/user-attachments/assets/5024300d-6fbb-456d-a00f-774753a8c430" />
 
 ---
 
