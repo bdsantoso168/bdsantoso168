@@ -16,6 +16,10 @@ I build at the intersection of analytics, AI systems, and consulting — where t
 
 ---
 
+![Banner](./banner.png)
+
+---
+
 ## Recent
 
 **[Graduate Fellowship Allocation System](https://github.com/bdsantoso168/graduate-fellowship-allocation-system)** — Automated a 40-50 hr/cycle manual matching workflow for 200+ applicants. Python, SQL, and Claude Code under faculty supervision.
