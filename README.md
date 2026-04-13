@@ -18,17 +18,21 @@ I build at the intersection of analytics, AI systems, and consulting — where t
 
 ## Recent
 
-**[Graduate Fellowship Allocation System](https://github.com/bdsantoso168/graduate-fellowship-allocation-system)** — Automated a 40-50 hr/cycle manual matching workflow for 200+ applicants using Python, SQL, and Claude Code. Faculty-supervised consulting engagement.
+**[Graduate Fellowship Allocation System](https://github.com/bdsantoso168/graduate-fellowship-allocation-system)** — Automated a 40-50 hr/cycle manual matching workflow for 200+ applicants. Python, SQL, and Claude Code under faculty supervision.
 
 **[Advising AI Assistant Prototype](https://github.com/bdsantoso168/advising-ai-assistant-prototype)** — End-to-end RAG-powered advising chatbot for Suffolk University. Architecture and tradeoffs presented directly to the Dean.
 
 **[Compass Agent](https://github.com/bdsantoso168/compass-agent)** — AI research and analytics agent built with Claude, Wikipedia API, BeautifulSoup, and Google News RSS.
 
-**[FounderLens Startup Evaluator](https://github.com/bdsantoso168/founderlens-startup-evaluator)** — Lightweight tool that scores startup ideas across market potential, feasibility, differentiation, and monetization.
+**[FinTech IPO Classification Automation](https://github.com/bdsantoso168/fintech-ipo-classification-automation)** — Python automation for classifying 1,900+ IPO filings from SEC EDGAR. Built during Suffolk University faculty research.
 
-**[US Banking Sector Financial Analysis](https://github.com/bdsantoso168/us-banking-sector-financial-analysis)** — Structured ratio analysis and DuPont decomposition across U.S. bank tiers from 2020 to 2025.
+**[FounderLens Startup Evaluator](https://github.com/bdsantoso168/founderlens-startup-evaluator)** — Scores startup ideas across market potential, feasibility, differentiation, and monetization.
+
+**[US Banking Sector Financial Analysis](https://github.com/bdsantoso168/us-banking-sector-financial-analysis)** — Ratio analysis and DuPont decomposition across U.S. bank tiers from 2020 to 2025.
 
 **[Sports Analytics Portfolio](https://github.com/bdsantoso168/Sports_Analytics_Portfolio)** — Solver-based optimization models applied to NFL and NBA game outcomes.
+
+**[Cybersecurity CTF Walkthrough](https://github.com/bdsantoso168/cybersecurity-ctf-walkthrough)** — University CTF competition walkthrough covering network reconnaissance, password cracking, and system administration.
 
 ---
 
